@@ -1,0 +1,18 @@
+local version ={
+  ios={
+	core="1.11",
+	version="0.1.11.5694"
+	},
+  android={
+	core="1.11",
+	version="0.1.11.5694"
+	},
+  other={
+	core="1.11",
+	version="0.1.11.5694"
+	},
+
+	core="1.11",
+	version="0.1.11.5694"
+}
+return version

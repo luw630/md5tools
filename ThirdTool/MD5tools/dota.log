@@ -1,0 +1,39 @@
+﻿生成启动时间为 2014/9/15 16:35:47。
+     1>项目“E:\SVN\Jcxyapp\Source\games\dota\proj.win32\dota.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\include" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\kazmath\include" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\support" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\support\tinyxml2" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\platform" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\platform\win32" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\platform\third_party\win32" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\platform\third_party\win32\curl" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\platform\third_party\win32\iconv" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\platform\third_party\win32\libjpeg" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\platform\third_party\win32\libpng" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\platform\third_party\win32\libtiff" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\platform\third_party\win32\libwebp" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\platform\third_party\win32\OGLES" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\platform\third_party\win32\pthread" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\platform\third_party\win32\zlib" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\CocosDenshion\include" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\CocosDenshion\win32" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\scripting\lua\cocos2dx_support" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\scripting\lua\tolua" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\scripting\lua\luajit\include" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\scripting\lua\lua_extensions" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\scripting\lua\lua_extensions\cjson" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\scripting\lua\lua_extensions\filesystem" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\scripting\lua\lua_extensions\lpack" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\scripting\lua\lua_extensions\socket" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\scripting\lua\lua_extensions\zlib" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\GUI\CCControlExtension" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\GUI\CCEditBox" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\GUI\CCScrollView" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\AssetsManager" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\CCBReader" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\network" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\CocoStudio\Action" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\CocoStudio\Armature" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\CocoStudio\Armature\animation" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\CocoStudio\Armature\datas" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\CocoStudio\Armature\display" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\CocoStudio\Armature\external_tool" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\CocoStudio\Armature\utils" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\CocoStudio\Components" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\CocoStudio\GUI" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\CocoStudio\Json" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\extensions\CocoStudio\Reader" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\libwebsockets\win32\include" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\libwebsockets\win32\include\win32helpers" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\chipmunk\include" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\chipmunk\luabinding" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\chipmunk\cocos2dx_support" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\luaproxy" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\luaproxy\tolua" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\luaproxy\ui" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\extra" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\extra\crypto" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\extra\luabinding" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\extra\native" /I"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\extra\network" /IE:\SVN\Jcxyapp\Source\games\dota\proj.win32\..\sources /Zi /nologo /W3 /WX- /MP /Od /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D CC_LUA_ENGINE_ENABLED=1 /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /wd4068 /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\sources\AppDelegate.cpp ..\sources\CCAM_Animation.cpp ..\sources\CCAM_AnimationSet.cpp ..\sources\CCAM_AnimationSet_binglua.cpp ..\sources\CCAM_Animation_binglua.cpp ..\sources\CCAM_Frame.cpp ..\sources\CCAM_Frame_binglua.cpp app.cpp stdafx.cpp
+         AppDelegate.cpp
+         CCAM_Animation.cpp
+         CCAM_AnimationSet.cpp
+         CCAM_AnimationSet_binglua.cpp
+     1>..\sources\CCAM_AnimationSet.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+     1>..\sources\CCAM_Animation.cpp(39): warning C4305: “初始化”: 从“double”到“float”截断
+     1>..\sources\CCAM_Animation.cpp(226): warning C4018: “<”: 有符号/无符号不匹配
+         CCAM_Animation_binglua.cpp
+         CCAM_Frame.cpp
+         CCAM_Frame_binglua.cpp
+         app.cpp
+     1>..\sources\CCAM_Frame.cpp(75): warning C4305: “初始化”: 从“double”到“float”截断
+     1>..\sources\CCAM_Frame.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+     1>..\sources\CCAM_Animation_binglua.cpp(450): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+         stdafx.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\SVN\Jcxyapp\Source\games\dota\proj.win32\Release\dota.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:.\Release /LIBPATH:E:\SVN\Jcxyapp\Source\\lib\luajit2\proj.win32 /LIBPATH:"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\cocos2dx\platform\third_party\win32\libraries" /LIBPATH:"E:\SVN\Jcxyapp\Source\\lib\cocos2d-x\external\libwebsockets\win32\lib" cocos2dx.lib opengl32.lib ws2_32.lib wsock32.lib pthreadVCE2.lib lua51.lib winmm.lib glew32.lib libcurl_imp.lib libiconv.lib libjpeg.lib libpng.lib libtiff.lib libzlib.lib libwebp.lib websockets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\SVN\Jcxyapp\Source\games\dota\proj.win32\Release\dota.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\SVN\Jcxyapp\Source\games\dota\proj.win32\Release\dota.lib" /MACHINE:X86 /SAFESEH Release\app.res
+         Release\AppDelegate.obj
+         Release\CCAM_Animation.obj
+         Release\CCAM_AnimationSet.obj
+         Release\CCAM_AnimationSet_binglua.obj
+         Release\CCAM_Animation_binglua.obj
+         Release\CCAM_Frame.obj
+         Release\CCAM_Frame_binglua.obj
+         Release\app.obj
+         Release\stdafx.obj
+     1>LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+         正在生成代码
+         已完成代码的生成
+         dota.vcxproj -> E:\SVN\Jcxyapp\Source\games\dota\proj.win32\Release\dota.exe
+     1>已完成生成项目“E:\SVN\Jcxyapp\Source\games\dota\proj.win32\dota.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:31.06
